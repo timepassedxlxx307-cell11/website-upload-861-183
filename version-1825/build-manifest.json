@@ -1,0 +1,20 @@
+{
+  "site_title": "国产影视视频免费在线观看_高清影片大全推荐-精品国产剧",
+  "movie_count": 2000,
+  "category_count": 10,
+  "html_pages": 2018,
+  "video_source_count": 20,
+  "category_distribution": {
+    "guochan": 204,
+    "juqing": 204,
+    "xuanyi": 204,
+    "xiju": 204,
+    "dongzuo": 204,
+    "aiqing": 204,
+    "kehuan": 204,
+    "donghua": 184,
+    "jiluzongyi": 184,
+    "jingdian": 204
+  },
+  "cover_policy": "HTML references top-level 1.jpg through 150.jpg as supplied/expected assets; no extra poster images were generated."
+}
